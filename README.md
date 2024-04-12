@@ -15,6 +15,8 @@ Logging and reporting
 Seamless integration with the pump.fun platform
 Whether you're a seasoned trader or new to the world of cryptocurrency, this bot can help streamline your trading process and maximize your returns on pump.fun. Feel free to explore the code, customize it to your needs, and contribute to the project.
 
-Buy the Bot for 5 SOL
-If you're interested in purchasing the Pump.fun Bot for 5 SOL, please contact us at https://t.me/Zardoz88 . We'd be happy to discuss the details and provide you with the bot.
+Buy the Bot for 10 SOL
+If you're interested in purchasing the Pump.fun Bot for 10 SOL, please contact us at https://t.me/Zardoz88 . We'd be happy to discuss the details and provide you with the bot.
 
+
+I apologize. In order to follow up with all of the installations, I had to adjust the price to 10 SOL.
